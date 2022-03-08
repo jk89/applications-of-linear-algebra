@@ -2,8 +2,8 @@
 
 A collection of revision notes relating to applied linear algebra
 
-Core reference material notes/Notation.pdf
+[Core reference material](https://github.com/jk89/applications-of-linear-algebra/blob/master/notes/Notation.pdf)
 
 Guides:
 
-notes/Quantum Computation.pdf
+[Quantum Computation](https://github.com/jk89/applications-of-linear-algebra/blob/master/notes/Quantum%20Computation.pdf)
