@@ -1,9 +1,12 @@
 # Applications of linear algebra
 
-A collection of revision notes relating to applied linear algebra
+A collection of revision notes relating to applied linear algebra.
 
-[Core reference material](https://github.com/jk89/applications-of-linear-algebra/blob/master/notes/Notation.pdf)
+## [Core reference material](./notes/LinearAlgebraCore.pdf)
 
-Guides:
+## Topics:
 
-[Quantum Computation](https://github.com/jk89/applications-of-linear-algebra/blob/master/notes/Quantum%20Computation.pdf)
+- [Euclidean Transformations](./notes/EuclideanTransformations.pdf)
+- [Quantum Computation](./notes/QuantumComputation.pdf)
+- [Quaternions](./notes/Quaternions.pdf)
+- [Neural Networks (work in progress)](./notes/NeuralNetworks.pdf)
